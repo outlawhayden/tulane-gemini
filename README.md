@@ -20,6 +20,8 @@ If you're looking for a beamer presentation theme, take a look at [Auriga].
 
 ## Usage
 
+### TEX
+
 1. Copy the files in this repository (or clone the repository)
 
 1. In `poster.tex`, set up your paper size, column layout, and scale the
@@ -31,44 +33,16 @@ If you're looking for a beamer presentation theme, take a look at [Auriga].
 
 1. Run `make` to build your poster
 
-## FAQ
+### Overleaf
 
-See the [FAQ] in the Wiki for answers to frequently asked questions such as how
-to add an institution logo to the poster.
+1. Copy the files in this repository to a new project in Overleaf
 
-## Themes
+1. 1. In `poster.tex`, set up your paper size, column layout, and scale the
+   content as necessary
 
-Gemini currently includes three color themes:
-
-* `gemini` (default)
-* `mit`
-* `labsix`
-
-The alternative themes are intended to be inspiration for you to make your own
-color theme. You're highly recommended to make your own color theme (it's
-really easy!) or use the default Gemini theme.
-
-### MIT theme
-
-<p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-mit.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-mit-small.png">
-</a>
-</p>
-
-### LabSix theme
-
-<p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-labsix.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-labsix-small.png">
-</a>
-</p>
-
-## Design goals
-
-* **Minimal**: clean and easy to read, so that the emphasis is on the content
-* **Batteries included**: works and looks good out of the box
-* **Easy theming**: easy to create and use a new color theme
+1. Make a copy of `beamercolorthemegemini.sty`, update the `\usecolortheme`
+   line in `poster.tex`, and theme the poster to your liking (optional, but
+   highly recommended)
 
 ## Contributing
 
