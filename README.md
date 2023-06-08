@@ -2,13 +2,7 @@
 
 Gemini is a modern LaTeX [beamerposter] theme. This is a fork of the original Gemini theme specifically for use at Tulane University.
 
-<p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini-small.png">
-</a>
-</p>
-
-If you're looking for a beamer presentation theme, take a look at [Auriga].
+https://github.com/outlawhayden/tulane-gemini/blob/master/tulanelogo.jpg?raw=true
 
 ## Dependencies
 
@@ -18,7 +12,6 @@ If you're looking for a beamer presentation theme, take a look at [Auriga].
   your TeX installation, but if not, you can get them from [CTAN])
 * [Raleway] and [Lato], which are both available under Open Font License
 
-## Usage
 
 ### TEX
 
@@ -35,9 +28,9 @@ If you're looking for a beamer presentation theme, take a look at [Auriga].
 
 ### Overleaf
 
-1. Copy the files in this repository to a new project in Overleaf
+1. Copy the files in this repository directly to a new project in Overleaf
 
-1. 1. In `poster.tex`, set up your paper size, column layout, and scale the
+1.  In `poster.tex`, set up your paper size, column layout, and scale the
    content as necessary
 
 1. Make a copy of `beamercolorthemegemini.sty`, update the `\usecolortheme`
@@ -53,7 +46,7 @@ investing a lot of time in implementing a new feature.
 
 ## License
 
-Copyright (c) Anish Athalye. Released under the MIT License. See
+Copyright (c) Hayden Outlaw. Released under the MIT License. See
 [LICENSE.md][license] for details.
 
 [beamerposter]: https://github.com/deselaers/latex-beamerposter
@@ -63,4 +56,3 @@ Copyright (c) Anish Athalye. Released under the MIT License. See
 [Raleway]: https://www.fontsquirrel.com/fonts/raleway
 [Lato]: https://www.fontsquirrel.com/fonts/lato
 [license]: LICENSE.md
-[FAQ]: https://github.com/anishathalye/gemini/wiki/FAQ
