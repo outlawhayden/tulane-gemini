@@ -1,4 +1,5 @@
-# Gemini [![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
+# Tulane Gemini TeX Poster
+[![Build Status](https://github.com/anishathalye/gemini/workflows/CI/badge.svg)](https://github.com/anishathalye/gemini/actions?query=workflow%3ACI)
 
 Gemini is a modern LaTeX [beamerposter] theme. This is a fork of the original Gemini theme specifically for use at Tulane University.
 
