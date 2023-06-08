@@ -9,7 +9,6 @@ Gemini is a modern LaTeX [beamerposter] theme. This is a fork of the original Ge
 </a>
 </p>
 
-![tulane-poster example]https://github.com/outlawhayden/tulane-gemini/blob/master/assets/tulane-example.png?raw=true
 
 ## Dependencies
 
@@ -55,6 +54,10 @@ investing a lot of time in implementing a new feature.
 
 Copyright (c) Hayden Outlaw. Released under the MIT License. See
 [LICENSE.md][license] for details.
+
+Tulane University logo Copyright (c) Tulane University
+
+Not official communications material
 
 [beamerposter]: https://github.com/deselaers/latex-beamerposter
 [Auriga]: https://github.com/anishathalye/auriga
