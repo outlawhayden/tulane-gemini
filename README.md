@@ -13,7 +13,8 @@ Gemini is a modern LaTeX [beamerposter] theme. This is a fork of the original Ge
 ## Dependencies
 
 * A TeX installation that includes [LuaTeX]
-    * You also need `latexmk` if you want to use the provided `Makefile`
+    * You also need `latexmk` if you want to use the provided `Makefile` for rendering
+    * For MacOS, try MacTeX - for Linux, try TeX Live - for Windows, try MiKTeX or TeX Live.
 * LaTeX package dependencies including beamerposter (these usually come with
   your TeX installation, but if not, you can get them from [CTAN])
 * [Raleway] and [Lato], which are both available under Open Font License
@@ -55,9 +56,9 @@ investing a lot of time in implementing a new feature.
 Copyright (c) Hayden Outlaw. Released under the MIT License. See
 [LICENSE.md][license] for details.
 
-Tulane University logo Copyright (c) Tulane University
+Tulane University logo Copyright (c) Tulane University.
 
-Not official communications material
+Not official communications material.
 
 [beamerposter]: https://github.com/deselaers/latex-beamerposter
 [Auriga]: https://github.com/anishathalye/auriga
