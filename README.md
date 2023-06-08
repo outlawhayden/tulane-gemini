@@ -2,6 +2,13 @@
 
 Gemini is a modern LaTeX [beamerposter] theme. This is a fork of the original Gemini theme specifically for use at Tulane University.
 
+
+<p align="center">
+<a href="https://github.com/outlawhayden/tulane-gemini/blob/master/assets/tulane-example.png?raw=true">
+<img src="https://github.com/outlawhayden/tulane-gemini/blob/master/assets/tulane-example.png?raw=true">
+</a>
+</p>
+
 ![tulane-poster example]https://github.com/outlawhayden/tulane-gemini/blob/master/assets/tulane-example.png?raw=true
 
 ## Dependencies
